@@ -1,11 +1,12 @@
 <svg version="1.1"
      viewBox="-3 -3 100 100"
      xmlns="http://www.w3.org/2000/svg">
-    <path d="M 55 75 C 30 65, 40 35, 50 30 S 75 27, 78 35 S 78 50, 73 60 S 60 75, 50 75 S 35 72, 29 65 S 22 50, 22 50 S 20 30, 29 25 S 45 25, 50 30" transform="rotate(-39)" transform-origin="center" stroke="transparent" fill="transparent" />
-    <path d="M 55 75 C 30 65, 40 35, 50 30 S 75 27, 78 35 S 78 50, 73 60 S 60 75, 50 75 S 35 72, 29 65 S 22 50, 22 50 S 20 30, 29 25 S 45 25, 50 30" transform="rotate(-39)" transform-origin="center" stroke="transparent" fill="#416fc4" />
-    <path d="M 55 75 C 30 65, 40 35, 50 30 S 75 27, 78 35 S 78 50, 73 60 S 60 75, 50 75" transform="rotate(-39)" transform-origin="center" stroke="transparent" fill="#ff6bdf" />
+    <path d="M 55 75 C 35 65, 40 35, 50 30 S 75 27, 78 35 S 78 50, 73 60 S 60 75, 55 75 S 35 72, 29 65 S 22 50, 22 50 S 20 30, 29 25 S 45 25, 50 30" transform="rotate(-39)" transform-origin="center" stroke="transparent" fill="#416fc4" />
+    <path d="M 55 75 C 35 65, 40 35, 50 30 S 75 27, 78 35 S 78 50, 73 60 S 60 75, 55 75" transform="rotate(-39)" transform-origin="center" stroke="transparent" fill="#ff6bdf" />
   <!--
-     viewBox="-3 -3 100 100"
+    <path d="M 55 75 C 35 65, 40 35, 50 30 S 75 27, 78 35 S 78 50, 73 60 S 60 75, 55 75 S 35 72, 29 65 S 22 50, 22 50 S 20 30, 29 25 S 45 25, 50 30" transform="rotate(-39)" transform-origin="center" stroke="#000" stroke-width="0.1px" fill="transparent" />
+  <circle cx="55" cy="75" r="0.2" stroke="green" fill="transparent" />
+  <circle cx="50" cy="75" r="0.2" stroke="green" fill="transparent" />
   <circle cx="48" cy="43" r="30" stroke="green" fill="transparent" />
   --> 
 </svg>
